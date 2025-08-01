@@ -33,7 +33,54 @@
           "title": "Intelika-AI",
           "description": "Backend Developer",
           "url": "https://intelika.ai/",
-          "date": "Jun 2024 - Present"
+          "date": "June 2024 - Present"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+{
+  "version": 1,
+  "name": "Mohammadreza Bahinkor",
+  "description": "Backend Developer",
+  "sections": [
+    {
+      "title": "About",
+      "type": "text",
+      "content": "A Back-end developer who is passionate about developing internal, single-purpose, security-critical REST APIs."
+    },
+    {
+      "title": "Socials",
+      "type": "links",
+      "links": [
+        {
+          "title": "GitHub",
+          "url": "https://github.com/bahinkor"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/bahinkor"
+        },
+        {
+          "title": "Telegram",
+          "url": "https://t.me/bahinkor"
+        }
+      ]
+    },
+    {
+      "title": "Experiences",
+      "type": "list",
+      "items": [
+        {
+          "title": "Intelika-AI",
+          "description": "Backend Developer",
+          "url": "https://intelika.ai",
+          "date": "June 2024 - Present"
         }
       ]
     }
