@@ -1,36 +1,39 @@
 {
   "version": 1,
-  "name": "Your Name",
-  "description": "A Short Description",
+  "name": "Mohammadreza Bahinkor",
+  "description": "Backend Developer",
   "sections": [
     {
-      "title": "About Me",
+      "title": "About",
       "type": "text",
       "content": "A longer description about you."
-    },
-    {
-      "title": "Experience",
-      "type": "list",
-      "items": [
-        {
-          "title": "Company One",
-          "description": "Software Engineer.",
-          "url": "https://example.com",
-          "date": "2025–Present"
-        }
-      ]
     },
     {
       "title": "Socials",
       "type": "links",
       "links": [
         {
-          "title": "Website",
-          "url": "https://example.com"
+          "title": "GitHub",
+          "url": "https://github.com/bahinkor"
         },
         {
-          "title": "GitHub",
-          "url": "https://github.com/example"
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/bahinkor"
+        },
+        {
+          "title": "Telegram",
+          "url": "https://t.me/bahinkor" 
+      ]
+    },
+    {
+      "title": "Experiences",
+      "type": "list",
+      "items": [
+        {
+          "title": "Intelika-AI",
+          "description": "Backend Developer",
+          "url": "https://intelika.ai/",
+          "date": "Jun 2024 - Present"
         }
       ]
     }
